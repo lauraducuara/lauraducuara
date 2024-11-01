@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Acerca de mí
 - 🌍 Soy de Colombia
-- 💡 Me fascina el desarrollo backend con **Java**, especialmente utilizando **Spring Boot**
+- 💡 Me fascina el desarrollo backend con **Java**, especialmente utilizando **Spring Boot**, ademas de **Node.js** usando **Express.js** y **Nest.js**
 - 🎨 En el frontend, me siento cómoda trabajando con **React** y **Angular**
 - 📊 También tengo experiencia trabajando con **PostgreSQL**, **MySQL**, y **MariaDB**
 - 💾 Me interesan los proyectos de **microservicios** y busco aplicar **arquitectura limpia**
